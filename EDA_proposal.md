@@ -13,3 +13,5 @@ The data was chosen from a pre covid time so we could calculate a traffic in the
 The data was chosen during summer when the city is the hottest.
 
 The data will be modified using pandas and sql to extract daily traffic/total traffic per station(maybe time could be another element).
+
+Then by using matplotlib will plot charts/graphs to support meaningful analysis found with the data.
