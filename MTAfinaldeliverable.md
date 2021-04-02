@@ -21,7 +21,7 @@ The goal of this project was to use the MTA turnstile data to find when where wo
 
 ---
 
-The data set selected is the MTA turnstile data from 2018-06-02 to 2018-08-25. The data was chosen from a pre-covid time so that we could accurately calculate traffic in the subway when things were normal. The data was chosen during summer when the city is the hottest. The dataset contains unique turnstiles, stations, dates, and hours.
+The data set selected is the MTA turnstile data from 2018-05-26 to 2018-08-24. The data was chosen from a pre-covid time so that we could accurately calculate traffic in the subway when things were normal. The data was chosen during summer when the city is the hottest. The dataset contains unique turnstiles, stations, dates, and hours.
 
 ## Algorithms
 
